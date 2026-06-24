@@ -58,3 +58,13 @@ Make sure the repo is **Public** so judges can view the code.
 ## Tech stack
 
 React 19 + Vite, lucide-react icons. No backend required for this demo build - all scan data is generated client-side.
+
+
+## demo link
+https://drive.google.com/file/d/1n_BZ0HimahZcpfJiCjXscj5iVfdm6cZ8/view?usp=sharing
+
+
+
+
+## live url
+https://ai-nexus-prototype-submission-513u.vercel.app/
